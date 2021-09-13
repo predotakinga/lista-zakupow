@@ -1,0 +1,128 @@
+﻿<Window x:Class="WpfApp10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp10"
+        xmlns:vm="clr-namespace:WpfApp10.ViewModel"
+        mc:Ignorable="d"
+        Background="Transparent"
+        WindowStyle=" None"
+        AllowsTransparency="True"
+        Title="MainWindow" Height="520" Width="920" ResizeMode="NoResize">
+    <Window.DataContext>
+        <vm:MainViewModel x:Name="viewModel"></vm:MainViewModel>
+    </Window.DataContext>
+    <Border Background = "#272537" CornerRadius="20">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition Width="300"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"/>
+                <RowDefinition Height="250"/>
+                <RowDefinition />
+
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="2" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+            </Grid>
+
+
+            <TextBlock Text="Sklep"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Left"
+                       Foreground="White"
+                       FontSize="22"
+                       Margin="20,0,0,0"/>
+            <TextBlock Text="Produkty:"  Grid.Row="0" Grid.Column="1"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Left"
+                       Foreground="White"
+                       FontSize="22"
+                       Margin="20,0,0,0"/>
+            <TextBlock Text="Lista zakupów" Grid.Column="2"
+                       HorizontalAlignment="Left"
+                       Foreground="White"
+                       FontSize="22" Width="408" RenderTransformOrigin="0.558,0.494" Margin="162,23,0,227" Grid.RowSpan="2"/>
+            <StackPanel  Grid.Row="1" Grid.Column="0">
+                <RadioButton Content="Warzywa" Height="50" Foreground="white" FontSize="15" Style="{StaticResource CategoriesButtonTheheme}" Command="{Binding Click1}" CommandParameter="0"/>
+                <RadioButton Content="Owoce" Height="50" Foreground="white" FontSize="15" Style="{StaticResource CategoriesButtonTheheme}" Command="{Binding Click1}" CommandParameter="1"/>
+                <RadioButton Content="Artykuły spożywcze" Height="50" Foreground="white" FontSize="15" Style="{StaticResource CategoriesButtonTheheme}" Command="{Binding Click1}" CommandParameter="2"/>
+                <RadioButton Content="Chemia" Height="50" Foreground="white" FontSize="15" Style="{StaticResource CategoriesButtonTheheme}" Command="{Binding Click1}" CommandParameter="3"/>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Grid.Column="1" Width="200" Height="250" Margin="25,10,25,185" Grid.RowSpan="2" >
+                <Border Width="200" Height="200">
+                    <Border.Clip>
+                        <RectangleGeometry RadiusX="10"
+                                           RadiusY="10"
+                                           Rect="0,0,200,200"/>
+                    </Border.Clip>
+                    <Border.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                            <GradientStop Color="#FF54E0FF" Offset="0.0"/>
+                            <GradientStop Color="#FF54E0FF" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Border.Background>
+                    <ListBox Foreground="Black" ItemsSource="{Binding ProductsCategory}" SelectedItem="{Binding SelectedProduct}" BorderBrush="Transparent"  Height="200" Background="Transparent" Margin="10,10,10,10"/>
+
+
+                </Border>
+
+
+
+
+            </StackPanel>
+            <TextBlock x:Name="NazwaProdukt1" Height="15" Width="110" Text="{Binding SelectedProduct}" Grid.Row="2" Margin="7,10,133,170" Grid.Column="1" Foreground="White"/>
+            <TextBlock x:Name="Kategoria" Text="Miara" Grid.Row="2" Grid.Column="1" Margin="10,46,163,131" Foreground="White" />
+            <TextBlock x:Name="liczba" Text="Liczba" Grid.Row="2" Margin="7,85,153,86" Grid.Column="1" Foreground="White"/>
+
+            <ComboBox x:Name="ComboProdukt1" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="1" VerticalAlignment="Top"  ItemsSource="{Binding Miara}" SelectedItem="{Binding WybranaMiara}" Background="#FF12938D" HorizontalAlignment="Left" Width="138" Margin="102,43,0,0" Foreground="Black" BorderBrush="#FFFD0202" OpacityMask="Black"/>
+            <Slider x:Name="sliderProdukt1" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" Maximum="10" TickPlacement="BottomRight" Value="{Binding NumberOfProduct}" TickFrequency="1" IsSnapToTickEnabled="True" Height="24" Margin="102,0,51,0"/>
+            <TextBox x:Name="textboxProdukt1"  Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" Text="{Binding NumberOfProduct}" Margin="202,0,10,0" Height="24">
+
+            </TextBox>
+            <StackPanel Grid.Row="2" Grid.Column="1">
+                <Border></Border>
+                <Button Foreground="white" Background="Transparent" x:Name="dodajProdukt1"  HorizontalContentAlignment="Center"  Command="{Binding Dodaj}" Margin="20,141,20,28" Height="22" Width="170">Dodaj Produkt do listy</Button>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Grid.Column="2" Grid.RowSpan="2" Margin="92,0,-92,0"  >
+                <Border Width="300" Height="360">
+                    <Border.Clip>
+                        <RectangleGeometry RadiusX="10"
+                                           RadiusY="10"
+                                           Rect="0,0,300,360"/>
+                    </Border.Clip>
+                    <Border.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                            <GradientStop Color="#ffc554" Offset="0.0"/>
+                            <GradientStop Color="#ffb73a" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Border.Background>
+                    <ListBox x:Name="listboxProdukty" Grid.Row="3"  ItemsSource="{Binding Produkty}" BorderBrush="Transparent" Background="Transparent" Margin="10,10,10,10" Height="340" Foreground="Black" SelectionChanged="listboxProdukty_SelectionChanged_1"/>
+
+                </Border>
+
+
+
+
+            </StackPanel>
+            <StackPanel Grid.Row="2" Grid.Column="2" Margin="0,0,19,0" >
+                <Border></Border>
+                <Button Foreground="white" Background="Transparent" x:Name="wyczysc"  HorizontalContentAlignment="Center"  Command="{Binding Click2}" Margin="20,141,20,28" Height="22" Width="151">Wyczyść listę</Button>
+            </StackPanel>
+            <StackPanel Grid.Row="2" Grid.Column="2" Margin="210,0,-160,0" >
+                <Border></Border>
+                <Button Foreground="white" Background="Transparent" x:Name="usun"  HorizontalContentAlignment="Center"  Command="{Binding Click3}" Margin="20,141,20,28" Height="22" Width="146">Usuń zaznaczony produkt</Button>
+            </StackPanel>
+
+            <TextBlock x:Name="suma" Text="{Binding Sumary}" Margin="302,113,-142,58" Grid.Column="2" Grid.Row ="2" Foreground="White"/>
+        </Grid>
+
+    </Border>
+</Window>

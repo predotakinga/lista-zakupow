@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ViewModel\Nowy folder1\**" />
+    <Compile Remove="ViewModel\Nowy folder\**" />
+    <EmbeddedResource Remove="ViewModel\Nowy folder1\**" />
+    <EmbeddedResource Remove="ViewModel\Nowy folder\**" />
+    <None Remove="ViewModel\Nowy folder1\**" />
+    <None Remove="ViewModel\Nowy folder\**" />
+    <Page Remove="ViewModel\Nowy folder1\**" />
+    <Page Remove="ViewModel\Nowy folder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.26" />
+    <PackageReference Include="MySqlConnector" Version="1.3.12" />
+  </ItemGroup>
+
+</Project>

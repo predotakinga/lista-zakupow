@@ -1,0 +1,193 @@
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.exe
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.deps.json
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.json
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.dev.json
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csprojAssemblyReference.cache
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.cache
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.lref
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.g.resources
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfoInputs.cache
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfo.cs
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.genruntimeconfig.cache
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\48601\source\repos\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.exe
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.deps.json
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.json
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.dev.json
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csprojAssemblyReference.cache
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.cache
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.lref
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.g.resources
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfoInputs.cache
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfo.cs
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\mikol\Desktop\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.genruntimeconfig.cache
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.exe
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.deps.json
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.json
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.dev.json
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csprojAssemblyReference.cache
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.cache
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.lref
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.g.resources
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfoInputs.cache
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfo.cs
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.genruntimeconfig.cache
+C:\Users\48601\Desktop\projekt\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.exe
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.deps.json
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.json
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.dev.json
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.cache
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.lref
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.g.resources
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\Szymon\Desktop\ge\giligili\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.genruntimeconfig.cache
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.exe
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.deps.json
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.json
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.dev.json
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csprojAssemblyReference.cache
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.cache
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.lref
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.g.resources
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfoInputs.cache
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfo.cs
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.genruntimeconfig.cache
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.CopyComplete
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\mikol\Desktop\humorgituwa (1)\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.exe
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.deps.json
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.json
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.dev.json
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\Theme\CategoriesButtonTheme.baml
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.cache
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.lref
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\App.baml
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.g.resources
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.CopyComplete
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\Szymon\Desktop\fc\finalcountdown\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.genruntimeconfig.cache
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.exe
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.deps.json
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.json
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.runtimeconfig.dev.json
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csprojAssemblyReference.cache
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\Theme\CategoriesButtonTheme.baml
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.cache
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10_MarkupCompile.lref
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\App.baml
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.g.resources
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfoInputs.cache
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.AssemblyInfo.cs
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.csproj.CopyComplete
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\ref\WpfApp10.dll
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.pdb
+C:\Users\mikol\Desktop\WpfApp10\WpfApp10\obj\Debug\net5.0-windows\WpfApp10.genruntimeconfig.cache
